@@ -4313,14 +4313,17 @@
   ],
   "/huxiu/article": [
     "HenryQW",
-    "nczitzk"
+    "nczitzk",
+    "TimoYoung"
   ],
   "/huxiu/channel/:id?": [
     "HenryQW",
-    "nczitzk"
+    "nczitzk",
+    "TimoYoung"
   ],
   "/huxiu/club/:id": [
-    "nczitzk"
+    "nczitzk",
+    "TimoYoung"
   ],
   "/huxiu/collection/:id": [
     "AlexdanerZe",
@@ -4343,7 +4346,8 @@
   "/huxiu/tag/:id": [
     "xyqfer",
     "HenryQW",
-    "nczitzk"
+    "nczitzk",
+    "TimoYoung"
   ],
   "/hyperdash/top-traders": [
     "pseudoyu"
